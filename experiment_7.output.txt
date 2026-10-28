@@ -1,0 +1,10 @@
+solution for 8 queen problem:
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+The 8 queen problem successfully solved using python back-tracking technique

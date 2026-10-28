@@ -1,0 +1,9 @@
+Enter the capacity of jug(1, 4) 4
+Enter the capacity of jug(2, 3) 3
+Enter the target volume: 2
+steps to reach target:
+(0, 0)
+(0, 3)
+(3, 0)
+(3, 3)
+(4, 2)

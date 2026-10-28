@@ -1,0 +1,5 @@
+Enter start point: 1
+Enter step size: 1
+Enter max iteration: 2
+best position: 0.00
+max value: 10.00

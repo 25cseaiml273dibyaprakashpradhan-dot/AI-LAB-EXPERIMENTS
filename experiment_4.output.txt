@@ -1,0 +1,5 @@
+Enter the start node: A
+Enter the goal node: G
+Shortest Path:
+A -> B -> D -> G
+total cost: 6

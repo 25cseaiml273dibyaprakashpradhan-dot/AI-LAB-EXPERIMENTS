@@ -1,0 +1,2 @@
+Enter 8 node value space-separated: 3 5 6 108 456 256 142 3
+The optimal value is :142

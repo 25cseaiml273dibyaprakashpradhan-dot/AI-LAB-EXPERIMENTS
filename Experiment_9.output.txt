@@ -1,0 +1,63 @@
+Current Board:
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player x's turn
+Enter row (0-2): 0
+Enter column (0-2): 2
+
+Current Board:
+  |   | x
+---------
+  |   |  
+---------
+  |   |  
+
+Player o's turn
+Enter row (0-2): 1
+Enter column (0-2): 0
+
+Current Board:
+  |   | x
+---------
+o |   |  
+---------
+  |   |  
+
+Player x's turn
+Enter row (0-2): 1
+Enter column (0-2): 2
+
+Current Board:
+  |   | x
+---------
+o |   | x
+---------
+  |   |  
+
+Player o's turn
+Enter row (0-2): 1
+Enter column (0-2): 1
+
+Current Board:
+  |   | x
+---------
+o | o | x
+---------
+  |   |  
+
+Player x's turn
+Enter row (0-2): 2
+Enter column (0-2): 2
+
+Final Board:
+  |   | x
+---------
+o | o | x
+---------
+  |   | x
+
+Player x wins!
